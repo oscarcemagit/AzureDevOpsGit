@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureDevOpsGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ded82807816e0d7c03e6798c803fdbc019e5eb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80974e3a81fb89f0c030cac15846e6170a561504")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureDevOpsGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureDevOpsGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
